@@ -4,7 +4,7 @@
 - на психологических качелях ✨
 
 ### Как достучаться
-- Instagram📷: @ktnk.dev
+- Instagram📷: @ktnk_dev
 - Discord🔮: Kotenok#2754
 - VK♠: @ktnk-dev
 
