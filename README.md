@@ -18,7 +18,7 @@
 ### Как достучаться
 - Instagram📷: @ktnk_dev
 - Email✉️: ktnk@duck.com
-- Discord🔮: Kotenok#2754
+- Discord🔮: молоко#2754
 - VK♠: @ktnk-dev
 
 
