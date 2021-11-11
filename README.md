@@ -13,6 +13,7 @@
 ### ~~Помойкa~~ Проекты
 - [/main](https://github.com/ktnk-dev/main) — мой очень крутой сайт, он настолько крутой, что там используются теги, которых не существует в HTML
 - [/anekdot](https://github.com/ktnk-dev/anekdot) — скрипт на Python, который получает случайный анекдот
+- [/blackjack](https://github.com/ktnk-dev/blackjack) — блекджек прямо в терминале, бесплатно
 
 ### Как достучаться
 - Instagram📷: @ktnk_dev
