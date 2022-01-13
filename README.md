@@ -12,6 +12,7 @@
 
 ### ~~Помойкa~~ Проекты
 - [/main](https://github.com/ktnk-dev/main) — мой очень крутой сайт, он настолько крутой, что там используются теги, которых не существует в HTML
+- [/DiceyTerminal](https://github.com/ktnk-dev/DiceyTerminal) — китайская пародия на Dicey Dungeons, игра на Python
 - [/anekdot](https://github.com/ktnk-dev/anekdot) — скрипт на Python, который получает случайный анекдот
 - [/blackjack](https://github.com/ktnk-dev/blackjack) — блекджек прямо в терминале, бесплатно
 
