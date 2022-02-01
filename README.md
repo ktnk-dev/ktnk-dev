@@ -9,10 +9,11 @@
 - питон))🐍
 - жаваскрипт👀
 - верстка🎂
+- завалил экзамен по информатике⭐️
 
 ### ~~Помойкa~~ Проекты
 - [/main](https://github.com/ktnk-dev/main) — мой очень крутой сайт, он настолько крутой, что там используются теги, которых не существует в HTML
-- [/weeb-math](https://github.com/ktnk-dev/weeb-math) — Сборник разной математики прямо в браузере, бесплатно, без регистрации
+- [/weeb-math](https://github.com/ktnk-dev/weeb-math) — сборник разной математики прямо в браузере, бесплатно, без регистрации
 - [/DiceyTerminal](https://github.com/ktnk-dev/DiceyTerminal) — китайская пародия на Dicey Dungeons, игра на Python
 - [/anekdot](https://github.com/ktnk-dev/anekdot) — скрипт на Python, который получает случайный анекдот
 - [/blackjack](https://github.com/ktnk-dev/blackjack) — блекджек прямо в терминале, бесплатно
