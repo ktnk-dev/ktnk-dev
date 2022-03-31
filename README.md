@@ -13,16 +13,14 @@
 
 ### ~~Помойкa~~ Проекты
 - [/main](https://github.com/ktnk-dev/main) — мой очень крутой сайт, он настолько крутой, что там используются теги, которых не существует в HTML
+- [/mira.ml](https://github.com/ktnk-dev/mira.ml) — ____действительно____ крутой сайтик для моего бота в дискорде <з
 - [/weeb-math](https://github.com/ktnk-dev/weeb-math) — сборник разной математики прямо в браузере, бесплатно, без регистрации
 - [/DiceyTerminal](https://github.com/ktnk-dev/DiceyTerminal) — китайская пародия на Dicey Dungeons, игра на Python
 - [/anekdot](https://github.com/ktnk-dev/anekdot) — скрипт на Python, который получает случайный анекдот
 - [/blackjack](https://github.com/ktnk-dev/blackjack) — блекджек прямо в терминале, бесплатно
 
 ### Как достучаться
-- Instagram📷: @ktnk_dev
-- Email✉️: ktnk@duck.com
-- Discord🔮: молоко#2754
-- VK♠: @ktnk-dev
+- [тык](https://kotenok.tk/)
 
 
 ```sudo rm -rf /```
