@@ -20,7 +20,7 @@
 - [/blackjack](https://github.com/ktnk-dev/blackjack) — блекджек прямо в терминале, бесплатно
 
 ### Как достучаться
-- [тык](https://kotenok.tk/)
+- [тык](https://avsl.ml/)
 
 
 ```sudo rm -rf /```
