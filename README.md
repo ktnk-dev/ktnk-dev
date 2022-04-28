@@ -16,6 +16,7 @@
 - [/mira.ml](https://github.com/ktnk-dev/mira.ml) — ____действительно____ крутой сайтик для моего бота в дискорде <з
 - [/weeb-math](https://github.com/ktnk-dev/weeb-math) — сборник разной математики прямо в браузере, бесплатно, без регистрации
 - [/DiceyTerminal](https://github.com/ktnk-dev/DiceyTerminal) — китайская пародия на Dicey Dungeons, игра на Python
+- [/shorturl-data-parser](https://github.com/ktnk-dev/shorturl-data-parser/) — скрипт на Python, для парсинга информации из сокращенных ссылок
 - [/anekdot](https://github.com/ktnk-dev/anekdot) — скрипт на Python, который получает случайный анекдот
 - [/blackjack](https://github.com/ktnk-dev/blackjack) — блекджек прямо в терминале, бесплатно
 
