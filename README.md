@@ -12,7 +12,8 @@
 - завалил экзамен по информатике⭐️
 
 ### ~~Помойкa~~ Основные проекты
-- [/main](https://github.com/ktnk-dev/main) — мой очень крутой сайт, он настолько крутой, что там используются теги, которых не существует в HTML
+- [/website](https://github.com/ktnk-dev/website) — актуальный сайт с использованием ГМО и красителей
+- [/main](https://github.com/ktnk-dev/main) — мой старый, но очень крутой сайт, он настолько крутой, что там используются теги, которых не существует в HTML
 - [/mira.ml](https://github.com/ktnk-dev/mira.ml) — ____действительно____ крутой сайтик для моего бота в дискорде <з
 - [/weeb-math](https://github.com/ktnk-dev/weeb-math) — сборник разной математики прямо в браузере, бесплатно, без регистрации
 - [/DiceyTerminal](https://github.com/ktnk-dev/DiceyTerminal) — китайская пародия на Dicey Dungeons, игра на Python
