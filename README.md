@@ -13,6 +13,7 @@
 
 ### ~~Помойкa~~ Основные проекты
 - [/website](https://github.com/ktnk-dev/website) — актуальный сайт с использованием ГМО и красителей
+- [/py-tg-channel-fetcher](https://github.com/ktnk-dev/py-tg-channel-fetcher) — либа для получения инфы, постов, коментов с тг каналов
 - [/main](https://github.com/ktnk-dev/main) — мой старый, но очень крутой сайт, он настолько крутой, что там используются теги, которых не существует в HTML
 - [/mira.ml](https://github.com/ktnk-dev/mira.ml) — ____действительно____ крутой сайтик для моего бота в дискорде <з
 - [/weeb-math](https://github.com/ktnk-dev/weeb-math) — сборник разной математики прямо в браузере, бесплатно, без регистрации
