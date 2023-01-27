@@ -26,7 +26,7 @@
 - [/www/web-color](https://github.com/ktnk-dev/main/tree/main/web-color) — сайт, где можно создать статичный цвет, и использовать как лампу
 
 ### Как достучаться
-- [тык](https://sinya.vescron.social/)
+- [тык](https://sinya.ru/)
 
 
 ```sudo rm -rf /```
