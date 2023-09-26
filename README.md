@@ -18,7 +18,8 @@
 - [blackjack](https://github.com/ktnk-dev/blackjack) — игра Blackjack или 21 в терминале с красивым CLI 
 - [shorturl data parser](https://github.com/ktnk-dev/shorturl-data-parser) — Скрипт, позволяющий использовать shorturl для хранения текста
   
-### Связь со мной: [Website](https://sinya.ru/) | [Discord](https://discord.com/users/sinya.dev)
+### Связь со мной: 
+[Website](https://sinya.ru/) | [Discord](https://discord.com/users/sinya.dev)
 
 
 ```sudo rm -rf /```
