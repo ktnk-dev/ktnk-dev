@@ -8,7 +8,7 @@
 
 # Мой стек
 ### Python
-- **API**: `fast-api`
+- **API**: `fast-api`, `http.server`
 - **Web**: `flask`
 - **UI**: `flet`, `tkinter`, `pyqt5`
 - **Data/Web parse**: `requests`, `BS4`, `selenium`
