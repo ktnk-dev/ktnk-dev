@@ -8,12 +8,12 @@
 
 # Мой стек
 ### Python
+- **AI**: `openai`, `google-generativeai`, `g4f`
+- **UI**: `flet`, `tkinter`, `pyqt5`
 - **API**: `fast-api`, `http.server`
 - **Web**: `flask`
-- **UI**: `flet`, `tkinter`, `pyqt5`
 - **Data/Web parse**: `requests`, `BS4`, `selenium`
 - **Bot development**: `telebot`, `telethon`, `discord.py`, `disnake`
-- **AI**: `openai`, `google-generativeai`, `g4f`
 
 ### Database
 - **SQL**: `sql`, `mongodb`
