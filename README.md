@@ -19,11 +19,14 @@
 - **SQL**: `sql`, `mongodb`
 - **noSQL**: `redis`, `json`
 
-### Верстка
+### WebDev
 - `HTML`, `CSS`, `JS`
 
 ### Другие языки
 - `C++`, `Lua`, `Bash`
+
+### Другое
+- `Linux`, `AWS`
 
 <hr>
 
