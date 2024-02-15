@@ -1,7 +1,8 @@
-
-<img src="pfp.png" width="110px" align="left">
-<h3>Привет, я Синя! Будем знакомы?</h3>
-<p><code>17 y.o.</code> <code>mid-developer</code></p>
+<div align="center">
+  <img align="center" src="pfp_animated.gif" width="150px">
+</div>
+<h3 align="center">Привет, я Синя! Будем знакомы?</h3>
+<p align="center"><code>17 y.o.</code> <code>mid-developer</code></p>
 
 <br>
 
