@@ -2,7 +2,7 @@
   <img align="center" src="pfp_animated.gif" width="150px">
 </div>
 <h3 align="center">Привет, я Синя! Будем знакомы?</h3>
-<p align="center"><code>17 y.o.</code> <code>mid-developer</code></p>
+<p align="center"><code>18 y.o.</code> <code>mid-developer</code></p>
 
 <br>
 
