@@ -3,9 +3,9 @@
    /\_r-,\_ )
 .-.) _;='_/ (.;
  \ \'     \/  )
-  L.'-. _.'|-'           sometimes 
- <_`-'\'_.'/                     this
-   `'-._( \                  happens...
+  L.'-. _.'|-'           i personally love
+ <_`-'\'_.'/                     to over analyse 
+   `'-._( \                   everything and suffer
     ___   \\,      ___
     \ .'-. \\   .-'_. /
      '._' '.\\/.-'_.'
